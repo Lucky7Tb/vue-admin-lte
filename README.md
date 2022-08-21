@@ -46,7 +46,6 @@ yarn test:e2e # or `yarn test:e2e:ci` for headless testing
 ```sh
 yarn lint
 ```
-"
 
 ### Prettier with [Prettier](https://prettier.io/)
 
